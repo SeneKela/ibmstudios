@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 70vh;
   position: relative;
-  background-image: url('https://raw.githubusercontent.com/SeneKela/ibmstudios/master/assets/img/fond_illus.png');
+  background-image: url(https://raw.githubusercontent.com/SeneKela/ibmstudios/master/assets/img/fond_illus.png);
   background-size: cover;
   background-position: center center;
   background-color: #061450;
