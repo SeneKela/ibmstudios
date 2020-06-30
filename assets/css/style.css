@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 15px;
   z-index: 9999;
   overflow-y: auto;
-  background: #3498DB;
+  background: #FC8C3A;
   transition: ease-in-out 0.2s;
   opacity: 0;
   visibility: hidden;
@@ -295,8 +295,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .get-started a {
-  background: #3498db;
-  color: #fff;
+  background: #fff;
+  color: #061450;
   border-radius: 50px;
   margin: 0 15px;
   padding: 10px 30px;
