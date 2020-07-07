@@ -493,8 +493,7 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 20px;
-  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .section-title h2 {
@@ -814,16 +813,6 @@ background-color: #061450
 .services .icon-box:hover .icon i {
   color: #061450;
 }
-
-
-.services p {
-  color: #fff;
-  margin: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 
 /*--------------------------------------------------------------
 # More Services
@@ -1355,19 +1344,6 @@ color: #FC8C3A;
 
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
-}
-
-
-.portfolio .portfolio-img {
-transition: 0.3s;
-position: relative;
-display: flex;
-justify-content: center;
-align-items : center;
-overflow: hidden;
-border-radius: 8px;
-z-index: 1;
-background: #061450;
 }
 
 .portfolio .portfolio-wrap {
