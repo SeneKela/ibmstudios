@@ -1695,6 +1695,54 @@ background-color:  #061450;
 
 
 
+/*--------------------------------------------------------------
+# Piliers
+--------------------------------------------------------------*/
+.pilars{
+  background-color: #061450;
+}
+
+.pilars .portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pilars p {
+  margin : 30px;
+  color:#fff;
+}
+
+
+.pilars .frame {
+  margin-top : 30px;
+  color:#fff;
+}
+
+.pilars .portfolio-img {
+transition: 0.3s;
+position: relative;
+display: flex;
+justify-content: center;
+align-items : center;
+overflow: hidden;
+border-radius: 8px;
+z-index: 1;
+background: #061450;
+}
+
+.pilars .portfolio-wrap {
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  z-index: 1;
+  background: #061450;
+}
+
+
+
+
+
+
 
 /*--------------------------------------------------------------
 # Pricing
